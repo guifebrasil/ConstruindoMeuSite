@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+
+.topo {
+    height: 100px;
+    background-color: rgb(0, 0, 0);
+    
+}
+
+
+.imgAutoSpeed {
+    height: 100px;
+    margin-left: 750px;
+    margin-top: 1px;
+}
+
+
+.meio {
+    border: 80px;
+
+}
+
+.carouselExample{
+    border: ;
+    margin-left: 900px;
+    margin-top: 1000px;
+}
+
+.PORSHE{
+    width: 500px;
+    height: 350px;
+}
+
+.LAMBO{
+    width: 500px;
+    height: 350px;
+}
+
+.FERRARI{
+    width: 500px;
+    height: 350px;
+}
+
+.corousel-item{
+
+    margin-right: 50%;
+}
